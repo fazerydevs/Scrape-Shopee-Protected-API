@@ -16,6 +16,8 @@
 
 - [Selenium-Wire Library](https://pypi.org/project/selenium-wire/)
 
+- Chrome webdriver check [here](https://chromedriver.chromium.org/home)
+
 
 
 
